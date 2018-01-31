@@ -1,0 +1,1 @@
+Notes from my the 'Statistics for Data Science' course taken at the University of Toronto. 
