@@ -1,0 +1,3 @@
+This folder contains projects I have completed on DataCamp.com that I have transcirbed to Jupyter Notebooks. 
+I have transcribed much of the code and text from the lessons for my own reference.
+All credit for this wonderful content goes to DataCamp.com!
