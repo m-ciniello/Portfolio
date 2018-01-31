@@ -1,0 +1,3 @@
+This folder contains my notes and code that I have transcribed from the 'Hands on Machine Learning' textbook by Aurélien Geron.
+I have transcribed much of the code and text from the chapters for my own reference.
+All credit for this wonderful content goes to Aurélien Geron!
