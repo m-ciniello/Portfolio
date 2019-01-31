@@ -6,6 +6,6 @@ run_models.egg-info/PKG-INFO
 run_models.egg-info/SOURCES.txt
 run_models.egg-info/dependency_links.txt
 run_models.egg-info/entry_points.txt
-run_models.egg-info/not-zip-safe
 run_models.egg-info/requires.txt
 run_models.egg-info/top_level.txt
+run_models.egg-info/zip-safe
