@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: run-models
+Version: 0.1.dev0
+Summary: Package for running models
+Home-page: http://github.com/m-ciniello/run_models
+Author: Mike Ciniello
+Author-email: michael.ciniello@gmail.com
+License: MIT
+Description: UNKNOWN
+Keywords: dope as model dev tool
+Platform: UNKNOWN
