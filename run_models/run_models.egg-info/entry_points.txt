@@ -1,3 +1,0 @@
-[console_scripts]
-init_model = run_models.init_model:main
-
